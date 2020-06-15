@@ -11,7 +11,7 @@
     <body>
         <%@include file="../WEB-INF/Vistas-Parciales/encabezado.jspf"%>
         <div style="width: 600px;">
-            <a href="<%=request.getContextPath()%>/categorias?opcion=crear" class="btn btn-success  btn-sm  glyphicon glyphicon-pencil"  role="button">Nueva categoria</a>
+            <a href="<%=request.getContextPath()%>/Categorias?opcion=crear" class="btn btn-success  btn-sm  glyphicon glyphicon-pencil"  role="button">Nueva categoria</a>
             <h3>Listado de Categorias Registradas</h3>
             <table class="table table-striped">
                 <tr>
