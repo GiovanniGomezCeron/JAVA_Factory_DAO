@@ -1,2 +1,2 @@
-# JAVA_Factory_DAO
+Proyecto creado con tecnologías jsp, Mysql
 Proyecto Java web 
